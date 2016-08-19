@@ -68,9 +68,9 @@
             </div>
             <div class="row">
             <div class="col-xs-4 col-sm-3 col-md-4">
-                    {{-- Logo --}}
+                    {{-- Logos --}}
                     <div class="Header-logo ">                        
-                            <img src="{{ url('/imagenes/logos/logoSantasAmarillo.png') }}">                       
+                            <img src="{{ url('/imagenes/logos/logoSantasAmarillo.jpg') }}">                       
                     </div>
                 </div>
                 <div class="bajar-menu col-md-6 col-xs-12 col-sm-6">
@@ -107,9 +107,9 @@
         <footer class="footer">   
             <div class="row">
                 <div class="col-md-4">
-                {{-- Logo --}}
+                {{-- Logos --}}
                     <div class="Footer-logo " align="center">                        
-                            <img src="{{ url('/imagenes/logos/logoSantasVino.png') }}">                       
+                            <img src="{{ url('/imagenes/logos/logoSantasVino.jpg') }}">                       
                     </div>
                 </div>
                 <div class="col-md-4">                
