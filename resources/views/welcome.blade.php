@@ -62,7 +62,7 @@
                             </button>
                             <ul class="dropdown-menu">
                                 <li><a href="#">AdministradoRRRr</a></li>
-                                <li><a href="#">Cerrar Sesión</a></li>
+                                <li><a href="#">Cerrar Sesionsón</a></li>
                             </ul>
                         </div>
                         @endif
