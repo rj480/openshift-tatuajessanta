@@ -70,7 +70,7 @@
             <div class="col-xs-4 col-sm-3 col-md-4">
                     {{-- Logos --}}
                     <div class="Header-logo ">                        
-                            <img src="{{ url('/imagenes/logos/logoSantasAmarillo.jpg') }}">                       
+                            <img src="{{ url('../imagenes/logos/logoSantasAmarillo.png') }}">                       
                     </div>
                 </div>
                 <div class="bajar-menu col-md-6 col-xs-12 col-sm-6">
@@ -109,7 +109,7 @@
                 <div class="col-md-4">
                 {{-- Logos --}}
                     <div class="Footer-logo " align="center">                        
-                            <img src="{{ url('/imagenes/logos/logoSantasVino.jpg') }}">                       
+                            <img src="{{ url('../imagenes/logos/logoSantasVino.png') }}">                       
                     </div>
                 </div>
                 <div class="col-md-4">                
