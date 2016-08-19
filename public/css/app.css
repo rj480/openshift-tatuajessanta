@@ -1,0 +1,184 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+.letter{
+font-family: 'Lobster', cursive;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.contenedor{
+  width: 90%;
+ margin: auto;
+}
+
+
+#cabecera{
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+  text-align: center;
+  width: 100%;
+  
+}
+
+.imagen-slide{
+  width: 100%;
+  height:350px;
+}
+
+.btn-inicio { 
+  color: #F7F2F3; 
+  background-color: #6E0F1B; 
+  border-color: #000000; 
+} 
+ 
+.btn-inicio:hover, 
+.btn-inicio:focus, 
+.btn-inicio:active, 
+.btn-inicio.active, 
+.open .dropdown-toggle.btn-inicio { 
+  color: #F7F2F3; 
+  background-color: #790312; 
+  border-color: #000000; 
+} 
+ 
+.btn-inicio:active, 
+.btn-inicio.active, 
+.open .dropdown-toggle.btn-inicio { 
+  background-image: none; 
+} 
+ 
+.btn-inicio.disabled, 
+.btn-inicio[disabled], 
+fieldset[disabled] .btn-inicio, 
+.btn-inicio.disabled:hover, 
+.btn-inicio[disabled]:hover, 
+fieldset[disabled] .btn-inicio:hover, 
+.btn-inicio.disabled:focus, 
+.btn-inicio[disabled]:focus, 
+fieldset[disabled] .btn-inicio:focus, 
+.btn-inicio.disabled:active, 
+.btn-inicio[disabled]:active, 
+fieldset[disabled] .btn-inicio:active, 
+.btn-inicio.disabled.active, 
+.btn-inicio[disabled].active, 
+fieldset[disabled] .btn-inicio.active { 
+  background-color: #6E0F1B; 
+  border-color: #000000; 
+} 
+ 
+.btn-inicio .badge { 
+  color: #6E0F1B; 
+  background-color: #F7F2F3; 
+}
+.btn-sample { 
+  color: #ffffff; 
+  background-color: #611BBD; 
+  border-color: #130269; 
+} 
+ 
+.btn-sample:hover, 
+.btn-sample:focus, 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  color: #ffffff; 
+  background-color: #49247A; 
+  border-color: #130269; 
+} 
+ 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  background-image: none; 
+} 
+ 
+.btn-sample.disabled, 
+.btn-sample[disabled], 
+fieldset[disabled] .btn-sample, 
+.btn-sample.disabled:hover, 
+.btn-sample[disabled]:hover, 
+fieldset[disabled] .btn-sample:hover, 
+.btn-sample.disabled:focus, 
+.btn-sample[disabled]:focus, 
+fieldset[disabled] .btn-sample:focus, 
+.btn-sample.disabled:active, 
+.btn-sample[disabled]:active, 
+fieldset[disabled] .btn-sample:active, 
+.btn-sample.disabled.active, 
+.btn-sample[disabled].active, 
+fieldset[disabled] .btn-sample.active { 
+  background-color: #611BBD; 
+  border-color: #130269; 
+} 
+ 
+.btn-sample .badge { 
+  color: #611BBD; 
+  background-color: #ffffff; 
+}
+
+
+.gmap-area {
+  background-image: url("../imagenes/mico1.jpg");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 70px 0;
+}
+
+.gmap-area .gmap iframe {
+  border-radius: 60%;
+  height: 480px;
+  width: 360px;
+}
+
+.gmap{
+    border: 10px solid #f6f5f0;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    box-shadow: 0px 0px 3px 3px #e7e4dc;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+}
+
+.gmap-area .map-content ul {
+  list-style: none; 
+}
+
+.gmap-area .map-content address h5{
+  font-weight: 700;
+  /* font-size: 16px; */
+}
+
+.footer {
+ width: 100%;
+  background: black;
+  border-top: 4px solid #6e0f1b;
+  bottom: 0px;           
+  margin:0px;
+
+   }
+
+.Header-logo >img{
+ width: 200px;
+ height: 120px;
+ margin-bottom: 26px;
+} 
+.bajar-menu{
+  margin-top: 80px;
+ }
+ .Footer-logo >img{
+  width: 120px;
+ height: 80px;
+ margin-bottom: 6px;
+ } 
+ .color{
+  color:#6E0F1B;
+ }
+ .seccion-contenido{
+margin-top:20px;
+margin-left: 40px;
+ }
