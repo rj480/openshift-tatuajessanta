@@ -61,7 +61,7 @@
                                 <i class="fa fa-user"></i> {{ Auth::user()->nombres }} <span class="caret"></span>
                             </button>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Administrador</a></li>
+                                <li><a href="#">AdministradoRRRr</a></li>
                                 <li><a href="#">Cerrar Sesión</a></li>
                             </ul>
                         </div>
